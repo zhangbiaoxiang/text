@@ -1,0 +1,87 @@
+div{
+    width: 600px;
+    height: 1000px;
+    background: -webkit-linear-gradient(top,#ECECEC,#FFFFFF);
+}
+
+.H1{
+    margin: 0px;
+    width: 200px;
+    font-size: 20px;
+    text-indent: 1em;
+    line-height: 30px;
+    color: white; 
+    background-color: #518700;
+    background-size: 30px;
+    font-family: "宋体";
+}
+.P1{
+
+    color: white; 
+    background-color: #005956;
+}
+
+.P2{
+    color: white; 
+    background-color: #007236;
+}
+.P3{
+    color: white; 
+    background-color: #008BBF;
+}
+.P4{
+    color: white; 
+    background-color: #0066B3;
+}
+.P5{
+    color: white; 
+    background-color: #00256A;
+}
+
+.H2{
+    margin: 0px;
+    width: 250px;
+    font-size: 20px;
+    text-indent: 1em;
+    line-height: 30px;
+    color: white; 
+    background-color: #E86121;
+    background-size: 30px;
+    font-family: "宋体";
+}
+
+.P6{
+    color: white; 
+    background-color: #F36F21;
+}
+.P7{
+    color: white; 
+    background-color: #BB131A;
+}
+.P8{
+    color: white; 
+    background-color: #D73765;
+}
+.P9{
+    color: white; 
+    background-color: #A70532;
+}
+.P10{
+    color: white; 
+    background-color: #553171;
+}
+.P11{
+    color: white; 
+    background-color: #4F1268;
+}
+p{
+    font-size: 13px;
+    font-family: "宋体";
+    line-height: 8px;
+}
+.A1{
+    color: #7B9D1E;
+}
+.A2{
+    color: #F26B35;
+}

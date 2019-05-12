@@ -1,0 +1,50 @@
+div{
+    width: 300px;
+}
+
+h1{
+    margin: 0px;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 35px;
+    text-indent: 2em;
+    color: white;
+    background: -webkit-linear-gradient(top,dodgerblue,white);
+    background-size: 300px;
+
+}
+h2{
+    margin: 0px;
+    font-size: 14px;
+    line-height: 30px;
+    text-indent: 2em;
+    color: #2174C8;
+    background: -webkit-linear-gradient(top,#C7E3F8,white);
+}
+
+h2 a{
+    text-decoration: none;
+}
+
+h2 a:hover{
+    color: #056505;
+    text-decoration:  underline;
+}
+
+li{
+    font-size: 12px;
+    line-height: 26px;
+    list-style-type: none;
+}
+/*设置字体颜色，去除下划线*/
+li a{
+    color: #b5b5b5;
+    text-decoration: none;
+}
+
+/*鼠标点击时显示下划线*/
+li a:hover{
+    color: #f60;
+    text-decoration: none;
+    text-decoration: underline;
+}

@@ -1,0 +1,67 @@
+div{
+    width: 400px;
+}
+h2{
+
+    font-size: 16px;
+    text-indent: 1em;
+    line-height: 30px;
+    color: white; 
+    background: url(../h05_a05/assets/imager/bang.gif) 100px 0px no-repeat;
+    background-color: #518700;
+    background-size: 30px;
+}
+
+ul{
+    font-size: 12px;
+    line-height: 28px;
+    color: #1a66b3;
+    list-style-type: none;
+    background: -webkit-linear-gradient(top,#F9FBCB,#F8F8F3);
+}
+li{
+    text-indent: 3em;
+   
+}
+.a1{
+    background: url(../h05_a05/assets/imager/book_no01.gif) 2px 5px no-repeat;
+    background-size: 18px;
+}
+.a2{
+    background: url(../h05_a05/assets/imager/book_no02.gif) 2px 5px no-repeat;
+    background-size: 18px;
+}
+.a3{
+    background: url(../h05_a05/assets/imager/book_no03.gif) 2px 5px no-repeat;
+    background-size: 18px;
+}
+.a4{
+    background: url(../h05_a05/assets/imager/book_no04.gif) 2px 10px no-repeat;
+
+}
+.a5{
+    background: url(../h05_a05/assets/imager/book_no05.gif) 2px 10px no-repeat;
+}
+.a6{
+    background: url(../h05_a05/assets/imager/book_no06.gif) 2px 10px no-repeat;
+}
+.a7{
+    background: url(../h05_a05/assets/imager/book_no07.gif) 2px 10px no-repeat;
+}
+.a8{
+    background: url(../h05_a05/assets/imager/book_no08.gif) 2px 10px no-repeat;
+}
+.a9{
+    background: url(../h05_a05/assets/imager/book_no09.gif) 2px 10px no-repeat;
+}
+.a10{
+    background: url(../h05_a05/assets/imager/book_no10.gif) 2px 10px no-repeat;
+}
+a{
+    color: blue;
+    text-decoration: none;
+}
+
+li a:hover{
+    text-decoration: underline;
+}

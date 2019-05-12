@@ -1,0 +1,23 @@
+div{
+    text-align: center;
+}
+h2{
+  text-shadow: black 2px 2px 5px;
+}
+
+.H{
+    color: #778888;
+}
+
+.a{
+    color: red;
+}
+
+.b{
+   font-style: italic;
+   text-indent: 2em; 
+}
+
+.c{
+    text-indent: 2em;
+}

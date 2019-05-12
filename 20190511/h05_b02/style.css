@@ -1,0 +1,38 @@
+div{
+    width: 500px;
+    height: 400px;
+    background: -webkit-linear-gradient(top,#CBEFFD,#FFFFFF);
+}
+
+.H1{
+    color: #0C729F;
+    text-shadow: black 2px 2px 2px;
+}
+.H2{
+    font-size: 15px;
+    color: #858A8C;
+    text-shadow: black 1px 1px 2px;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-indent: 2em;
+    line-height: 20px;
+}
+.P1{
+    font-size: 30px;
+    color: #6E17F0;
+    text-shadow: gray 3px 3px 5px;
+    font-weight: bold;   
+}
+.P2{
+    font-size: 20px;
+    color: #4C67F3;
+    font-style: italic;
+    font-weight: bold;  
+}
+.P3{
+    color: #379A08;
+    text-decoration:underline;
+}

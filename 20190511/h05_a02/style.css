@@ -1,0 +1,16 @@
+
+h2{
+    line-height: 40px;
+    font-weight: bold;
+}
+p{
+    font-size: 12px;
+    line-height: 20px;
+}
+body{
+    color: maroon;
+}
+
+p img{
+    vertical-align:middle;/*文字和图片水平对齐 */
+}
